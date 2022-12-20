@@ -1,4 +1,4 @@
-![colored logo and text](https://user-images.githubusercontent.com/110943890/183782554-1497bee5-2561-44e6-81c1-107f0237b68c.png)
+![sylit neon logo and text](https://user-images.githubusercontent.com/110943890/208584461-b93ec80b-459f-49a7-8bc9-2d9d0b3c0f2f.png)
 
 ### ABOUT US
 [SYLIT Inc](http://sylit.ca) is a Canadian based cybersecurity consulting service firm that specializes in helping organization meets its security goals through developing a robust cybersecurity strategy, advisory, implementation, auditing etc.
